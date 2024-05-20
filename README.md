@@ -3,11 +3,11 @@
 
 ## Description
 
-This project is a color switcher application that allows users to switch colors dynamically.
+This project is a Tab switcher application that allows users to switch  tabs dynamically.
 
 ## Features
 
-- Dynamic Tip Calculator 
+- Display of Dynamic Content
 - User-friendly interface
 - Responsive design
 
